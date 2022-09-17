@@ -5,3 +5,25 @@ body {
     .col-4{
         font-size: 75px;
     }
+#calculator{
+    max-width: 40em;
+}
+
+img{
+    padding: 10px;
+}
+
+#bmi {
+    max-width: 3em;
+}
+
+#clock {
+    max-width: 3em;
+}
+
+#quote {
+    max-width: 3em;
+}
+#rps {
+    max-width: 3em;
+}
