@@ -1,7 +1,12 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
 .card{
     border-width: 0px;
+}
+
+img {
+    padding: 10px;
 }
